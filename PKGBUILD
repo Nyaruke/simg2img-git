@@ -1,5 +1,3 @@
-# Maintainer: willemw <willemw12@gmail.com>
-
 pkgname=simg2img-git
 pkgver=r54.a6fcc0f
 pkgrel=1
